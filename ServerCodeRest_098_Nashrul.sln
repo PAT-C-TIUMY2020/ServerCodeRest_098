@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerCodeRest_098_Nashrul", "ServerCodeRest_098_Nashrul\ServerCodeRest_098_Nashrul.csproj", "{E924FE77-CA05-40BC-A76E-83A80795329E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E924FE77-CA05-40BC-A76E-83A80795329E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E924FE77-CA05-40BC-A76E-83A80795329E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E924FE77-CA05-40BC-A76E-83A80795329E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E924FE77-CA05-40BC-A76E-83A80795329E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAFF591C-3380-4914-A8DF-98370A0C3326}
+	EndGlobalSection
+EndGlobal
